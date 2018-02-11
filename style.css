@@ -1,0 +1,26 @@
+button{ 
+    background: green;
+  }
+  
+  h1{
+      text-align: center;
+      color: rgb(210, 0, 0);
+  }
+  
+  h2{
+      text-align: center;
+      color: background;
+  }
+  hr{
+      background: rgb(64, 128, 128);
+      height: 5px;
+  }
+   
+  div{
+      color: rgb(55, 84, 123);
+	  margin-bottom: 10px;
+  }
+  
+  form{ 
+	margin-bottom: 100px;
+  }
