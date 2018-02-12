@@ -6,7 +6,7 @@
         <title>Evaluation MAZZA - BENETEAU</title>
     </head>
     <body>
-        <h1>Intégration continu</h1>
+        <h1>Intégration continue</h1>
 
 		<h2>Déjà un compte</h2><hr>
 		<form method= "POST" action="verification.php">
