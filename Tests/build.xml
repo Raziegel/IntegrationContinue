@@ -1,0 +1,8 @@
+<phpunit codecoverage="true" haltonfailure="true" haltonerror="true">
+  <formatter type="clover" usefile="false"/>
+  <batchtest>
+    <fileset dir="tests">
+      <include name="Tests/*.php"/>
+    </fileset>
+  </batchtest>
+</phpunit>
